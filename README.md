@@ -69,3 +69,5 @@ NextBites/
 ## Project Status
 
 The homepage and recipe card layout are currently implemented. Further improvements and features may be added in the future.
+
+Bang Bang
